@@ -101,3 +101,14 @@ Open http://localhost:3000 inside your browser.
 [ ] Multi-lingual support (International Localization Framework).
 
 ---
+
+## 📬 Contact
+
+Developer: PARSA BABALOO
+Email: parsababalo1403@gmail.com
+
+Note: Any other contact information (including Telegram channels or usernames) associated with this project is not official and should be considered invalid or unrelated to the developer.
+
+---
+
+**⭐ If this project helped you, please give it a star! ⭐**
