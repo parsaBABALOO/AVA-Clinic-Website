@@ -75,8 +75,8 @@ Follow these quick steps to get a local instance of AVA Clinic up and running on
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/ava-clinic-nextjs.git](https://github.com/your-username/ava-clinic-nextjs.git)
-   cd ava-clinic-nextjs
+   git clone [https://github.com/parsaBABALOO/AVA-Clinic-Website.git](https://github.com/parsaBABALOO/AVA-Clinic-Website.git)
+   cd AVA-Clinic-Website
    ```
 2. **Install Engine Dependencies:**
    ```bash
