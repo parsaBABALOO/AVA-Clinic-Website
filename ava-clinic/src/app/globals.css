@@ -1,0 +1,28 @@
+/* 1. TAILWIND DIRECTIVES */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 2. CUSTOM LAYOUT ANIMATIONS */
+@layer utilities {
+  /* Slow pulse animation for premium conversion buttons */
+  .animate-pulse-slow {
+    animation: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+  
+  /* Smooth fade-in animation for state boxes */
+  .animate-fade-in {
+    animation: fadeIn 0.4s ease-out forwards;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
