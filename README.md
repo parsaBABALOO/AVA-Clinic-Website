@@ -6,6 +6,10 @@
 
 An ultra-luxury, high-performance, full-stack web application custom-built for **AVA Clinic**, specializing in premium dental care and elite aesthetic services. This platform delivers a VIP, high-conversion patient experience integrated with a dynamic backend booking infrastructure.
 
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
+
 ---
 
 ## ✨ Key Features & Business Logic
